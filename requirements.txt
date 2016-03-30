@@ -1,0 +1,6 @@
+dj-database-url==0.3.0
+Django==1.9.1
+django-bootstrap3==6.2.2
+djangoajax==2.3.3
+waitress==0.8.10
+whitenoise==2.0.6

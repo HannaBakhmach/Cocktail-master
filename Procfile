@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cocktail_master.wsgi:application
